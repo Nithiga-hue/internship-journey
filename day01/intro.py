@@ -1,0 +1,13 @@
+name = input("What is your name? ")
+age = int(input("How old are you? "))
+college = input("What is your college? ")
+language = input("What programming language are you learning? ")
+
+print()
+print("Hi", name + "!")
+print()
+print("You are", age, "years old.")
+print("You study at", college + ".")
+print("You're learning", language, "as your main programming language.")
+print()
+print("Your internship journey starts today! 🚀")
